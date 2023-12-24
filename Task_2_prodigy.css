@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(115, 187, 230);
+    height: 100%;}
+.StopWatch{
+    width:80%;
+    max-width: 900px;
+    height: 60%;
+    background-image:linear-gradient(rgba(5, 36, 74, 0.662),rgba(4, 31, 37, 0.8)),url(Task2BG.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding:  70px 0 0 0;
+    color: rgb(163, 192, 219);
+    margin:0  auto 0 ;
+    box-shadow:  0 5px  10px 10px rgba(119, 50, 50, 0.8);
+}
+#displayTime {
+    color:aliceblue;
+    margin-top: 8px;
+    padding-bottom: 3px;
+    font-size: 100px;
+    font-weight: 500px;
+}
+.buttons{
+margin:0 20px;
+cursor: pointer;
+}s
